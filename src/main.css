@@ -1,0 +1,13 @@
+body{
+    
+    background-color: #731BB7;
+}
+
+.container{
+    max-width: 65%;
+    margin: 0 auto;
+}
+
+h5, h2{
+    text-align: center;
+}
